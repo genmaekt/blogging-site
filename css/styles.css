@@ -1,5 +1,5 @@
 body {
-  background-color: lavenderblush;
+  background-color: linen;
 }
 
 .pageheader {
@@ -33,7 +33,6 @@ h3 {
 }
 
 .aboutme {
-  color: darkred;
-  font-size: small;
-  font-family: cursive;
+  color: black;
+  font-variant: small-caps;
 }
