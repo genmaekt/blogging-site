@@ -1,0 +1,31 @@
+body {
+  background-color: lavenderblush;
+}
+
+h1 {
+  font-style: italic;
+  font-weight: 700;
+  color: crimson;
+}
+
+h2 {
+  font-weight: 300;
+}
+
+h3 {
+  font-style: italic;
+}
+
+.blogpost {
+  color: lightslategray;
+}
+
+.blogpost2 {
+  color: darkslategray;
+}
+
+.aboutme {
+  color: darkred;
+  font-size: small;
+  font-family: cursive;
+}
