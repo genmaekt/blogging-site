@@ -2,6 +2,11 @@ body {
   background-color: lavenderblush;
 }
 
+.pageheader {
+  line-height: 2pt;
+  text-align: center;
+}
+  
 h1 {
   font-style: italic;
   font-weight: 700;
@@ -10,6 +15,9 @@ h1 {
 
 h2 {
   font-weight: 300;
+  font-variant-caps: all-small-caps;
+  font-weight: 800;
+  color: darkred;
 }
 
 h3 {
