@@ -26,10 +26,13 @@ h3 {
 
 .blogpost {
   color: lightslategray;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .blogpost2 {
   color: darkslategray;
+  margin-bottom: 10px;
 }
 
 .aboutme {
